@@ -1,1 +1,83 @@
-Hi I'm Muhammad Ehsan Flutter Developer and Full Stack Web Developer
+ ```svg
+<svg width="1000" height="300" viewBox="0 0 1000 300"
+xmlns="http://www.w3.org/2000/svg">
+
+<rect width="1000" height="300" rx="20" fill="#0d1117"/>
+
+<style>
+.title {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 42px;
+  font-weight: 700;
+  fill: #ffffff;
+}
+
+.subtitle {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 28px;
+  font-weight: 600;
+  fill: #8b949e;
+}
+
+.accent {
+  fill: #58a6ff;
+}
+</style>
+
+<!-- 1. Hi I'm Muhammad Ehsan -->
+<text x="500" y="90" text-anchor="middle" class="title">
+  Hi I'm Muhammad Ehsan
+  <animate
+    attributeName="opacity"
+    values="0;1;1;0"
+    keyTimes="0;0.08;0.25;0.30"
+    dur="12s"
+    repeatCount="indefinite"/>
+</text>
+
+<!-- 2. Full Stack Software Developer -->
+<text x="500" y="90" text-anchor="middle" class="title">
+  Full Stack Software Developer
+  <animate
+    attributeName="opacity"
+    values="0;0;1;1;0"
+    keyTimes="0;0.30;0.38;0.52;0.57"
+    dur="12s"
+    repeatCount="indefinite"/>
+</text>
+
+<!-- 3. Web | Mobile | API | Desktop | Cloud -->
+<text x="500" y="90" text-anchor="middle" class="title accent">
+  Web | Mobile | API | Desktop | Cloud
+  <animate
+    attributeName="opacity"
+    values="0;0;0;1;1;0"
+    keyTimes="0;0.57;0.62;0.67;0.78;0.83"
+    dur="12s"
+    repeatCount="indefinite"/>
+</text>
+
+<!-- 4. Open for freelance projects -->
+<text x="500" y="90" text-anchor="middle" class="title">
+  Open for freelance projects
+  <animate
+    attributeName="opacity"
+    values="0;0;0;0;1;1;0"
+    keyTimes="0;0.83;0.87;0.90;0.92;0.97;1"
+    dur="12s"
+    repeatCount="indefinite"/>
+</text>
+
+<!-- Small professional line -->
+<text x="500" y="145" text-anchor="middle" class="subtitle">
+  Flutter • Dart • React • Node.js • APIs • Cloud
+  <animate
+    attributeName="opacity"
+    values="0;0;1;1;0"
+    keyTimes="0;0.25;0.30;0.95;1"
+    dur="12s"
+    repeatCount="indefinite"/>
+</text>
+
+</svg>
+```
