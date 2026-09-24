@@ -1,138 +1,337 @@
- <div align="center">
-👋 Hi, I'm Muhammad Ehsan
-Senior Flutter Developer & Full Stack Developer
-Building scalable mobile & web applications with clean architecture, modern UI, and production-focused engineering.
+<div align="center">
+
+# 👋 Hi, I'm Muhammad Ehsan
+
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Muhammad+Ehsan;Full+Stack+Web+Developer+%26+Flutter+Developer;Mobile+%7C+Web+%7C+Desktop+%7C+Cloud+%7C+APIs;Open+for+Freelance+Projects"
+alt="Animated introduction"
+/>
+
+<p>
+  <strong>Senior Flutter Developer & Full Stack Developer</strong>
+</p>
+
+<p>
+  Building scalable mobile & web applications with clean architecture,
+  modern UI, reliable APIs, and production-focused engineering.
+</p>
+
 <p>
   <a href="https://github.com/MEhsan1237">
-    <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/muhammad-ehsan-41680731b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:mehsan1237@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://leetcode.com/muhammad-ehsan">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
-<img src="https://komarev.com/ghpvc/?username=mehsan1237&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile Views" />
+
+<img
+src="https://komarev.com/ghpvc/?username=mehsan1237&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge"
+alt="Profile Views"
+/>
+
 </div>
+
 ---
-🚀 About Me
-I'm a Flutter & Full Stack Developer focused on building reliable, scalable, and user-friendly digital products across mobile and web platforms.
-I enjoy turning ideas into production-ready applications — from modern UI/UX and responsive interfaces to REST APIs, authentication, databases, Firebase services, and scalable application architecture.
-What I focus on
-📱 Cross-platform mobile development with Flutter & Dart
-🌐 Full Stack web development with React.js, Node.js & Express.js
-🧩 Clean and maintainable application architecture
-🔐 Authentication, authorization & secure API integration
-🔥 Firebase services & real-time application features
-🗄️ MongoDB, MySQL & SQL database integration
-⚡ Performance optimization & reusable components
-🎨 Modern, responsive and user-focused UI/UX
-🛠️ Git-based development and collaborative workflows
+
+## 🚀 About Me
+
+I'm a **Flutter & Full Stack Developer** focused on designing and building reliable, scalable, and user-friendly digital products across mobile and web platforms.
+
+I enjoy transforming ideas into **production-ready applications**, combining modern UI/UX, clean architecture, backend services, REST APIs, authentication, databases, and performance-focused engineering.
+
+### What I Focus On
+
+* 📱 Cross-platform mobile development with **Flutter & Dart**
+* 🌐 Full Stack web development with **React.js, Node.js & Express.js**
+* 🧩 Clean, scalable and maintainable application architecture
+* 🔐 Authentication, authorization and secure API integration
+* 🔥 Firebase, Firestore and real-time application features
+* 🗄️ MongoDB, MySQL, PostgreSQL and SQL databases
+* ⚡ Performance optimization and reusable components
+* 🎨 Modern, responsive and user-focused UI/UX
+* 🛠️ Git-based development and collaborative workflows
+* 🚀 Production-focused development and deployment
+
 ---
-🧑‍💻 What I'm Working On
-🔭 Building and improving mobile and full-stack applications
-🌱 Deepening my expertise in Backend Development, scalable APIs and production architecture
-🤝 Open to collaborating on meaningful Flutter, React and Full Stack projects
-📚 Continuously learning modern engineering practices and technologies
----
-🏗️ Featured Projects
-📄 Resume Maker App
-A modern resume-building application focused on creating professional resumes with customizable templates, styling and PDF generation.
-Tech: Flutter • Dart • GetX • Firebase • Firestore
-🔗 View Repository
----
-🚐 School Van Tracking System
-A full-stack school transportation platform designed for managing students, drivers, routes and transportation workflows.
-Tech: Flutter • Firebase • Firestore • Google Maps
-🔗 View Repository
----
-🏨 Room Booking App
-A full-stack booking application with modern interfaces and backend integration for managing rooms and reservations.
-Tech: Flutter • Node.js • Express.js • MongoDB
-🔗 View Repository
----
-🛠️ Tech Stack
-📱 Mobile Development
-<p>
-  <a href="https://flutter.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45" height="45" alt="Flutter"/></a>
-  <a href="https://dart.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="45" height="45" alt="Dart"/></a>
-  <a href="https://developer.android.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="45" height="45" alt="Android"/></a>
-</p>
-Flutter · Dart · GetX · MVVM · Clean Architecture · REST APIs · Firebase · Google Maps · Push Notifications
----
-🌐 Frontend Development
-<p>
-  <a href="https://react.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/></a>
-  <a href="https://www.typescriptlang.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/></a>
-  <a href="https://tailwindcss.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS"/></a>
-</p>
-React.js · JavaScript · TypeScript · HTML5 · CSS3 · Tailwind CSS · Bootstrap · Responsive UI
----
-⚙️ Backend & APIs
-<p>
-  <a href="https://nodejs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/></a>
-  <a href="https://expressjs.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45" alt="Express.js"/></a>
-  <a href="https://firebase.google.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" height="45" alt="Firebase"/></a>
-</p>
-Node.js · Express.js · REST APIs · JWT Authentication · Firebase · Firestore · API Integration
----
-🗄️ Databases
-<p>
-  <a href="https://www.mongodb.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/></a>
-  <a href="https://www.mysql.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/></a>
-  <a href="https://www.postgresql.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/></a>
-</p>
-MongoDB · MySQL · PostgreSQL · Firestore · SQL
----
-🔧 Tools & Workflow
-<p>
-  <a href="https://git-scm.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/></a>
-  <a href="https://github.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/></a>
-  <a href="https://www.postman.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" height="45" alt="Postman"/></a>
-  <a href="https://www.figma.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45" alt="Figma"/></a>
-  <a href="https://www.docker.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/></a>
-</p>
-Git · GitHub · Postman · Figma · Docker · VS Code · Android Studio
----
-📊 GitHub Analytics
+
+## 💻 Developer Roles
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mehsan1237&show_icons=true&hide_border=true&theme=transparent&title_color=7C3AED&icon_color=7C3AED&text_color=64748B" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehsan1237&layout=compact&hide_border=true&theme=transparent&title_color=7C3AED&text_color=64748B" height="170" />
+
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2500&pause=900&color=7C3AED&center=true&vCenter=true&width=700&lines=Flutter+Developer;Full+Stack+Developer;React.js+Developer;Flutter+Developer"
+alt="Developer roles"
+/>
+
 </div>
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=mehsan1237&hide_border=true&theme=transparent&ring=7C3AED&fire=F97316&currStreakLabel=7C3AED" />
-</div>
+
 ---
-📈 Engineering Mindset
+
+## 🧑‍💻 What I'm Working On
+
+* 🔭 Building and improving **mobile and full-stack applications**
+* 🌱 Deepening expertise in **backend development, scalable APIs and system architecture**
+* 🤝 Open to collaborating on meaningful **Flutter, React and Full Stack projects**
+* 📚 Continuously learning modern software engineering practices
+* 🚀 Turning product ideas into maintainable and production-ready solutions
+
+---
+
+## 🏗️ Featured Projects
+
+### 📄 Resume Maker App
+
+A modern resume-building application designed to help users create professional resumes using customizable templates, styling options and PDF generation.
+
+**Tech Stack**
+
+`Flutter` `Dart` `GetX` `Firebase` `Firestore` `PDF`
+
+---
+
+### 🚐 School Van Tracking System
+
+A full-stack school transportation platform designed for managing students, drivers, routes, vans, pickups and transportation workflows.
+
+**Tech Stack**
+
+`Flutter` `Firebase` `Firestore` `Google Maps` `REST APIs`
+
+---
+
+### 🏨 Room Booking App
+
+A full-stack booking application with modern interfaces and backend integration for managing rooms, reservations and booking workflows.
+
+**Tech Stack**
+
+`Flutter` `Node.js` `Express.js` `MongoDB` `REST APIs`
+
+---
+
+### 🛒 E-Commerce Application
+
+A modern shopping application focused on product browsing, authentication, cart management, API integration and responsive user experiences.
+
+**Tech Stack**
+
+`Flutter` `Dart` `REST APIs` `Firebase` `GetX`
+
+---
+
+## 🛠️ Technology Stack
+
+### 📱 Mobile Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,android,firebase" alt="Mobile Technologies"/>
+</p>
+
+`Flutter` · `Dart` · `GetX` · `MVVM` · `Clean Architecture` · `REST APIs` · `Firebase` · `Firestore` · `Google Maps` · `Push Notifications`
+
+---
+
+### 🌐 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,bootstrap,vite" alt="Frontend Technologies"/>
+</p>
+
+`React.js` · `JavaScript` · `TypeScript` · `HTML5` · `CSS3` · `Tailwind CSS` · `Bootstrap` · `Responsive UI`
+
+---
+
+### ⚙️ Backend & APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,postman" alt="Backend Technologies"/>
+</p>
+
+`Node.js` · `Express.js` · `REST APIs` · `JWT Authentication` · `Firebase` · `Firestore` · `API Integration`
+
+---
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" alt="Database Technologies"/>
+</p>
+
+`MongoDB` · `MySQL` · `PostgreSQL` · `Firestore` · `SQL`
+
+---
+
+### 🔧 Tools & Workflow
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,androidstudio,postman" alt="Development Tools"/>
+</p>
+
+`Git` · `GitHub` · `Docker` · `Figma` · `VS Code` · `Android Studio` · `Postman`
+
+---
+
+## 🏛️ Architecture & Engineering
+
 ```text
-Clean Code          → Readable, maintainable & reusable
-Architecture        → Scalable structure with clear responsibilities
-UI/UX               → Modern, responsive & user-focused
-Performance         → Efficient rendering & optimized workflows
-Security            → Secure authentication & API practices
-Development         → Git-based, modular & production-focused
+Architecture
+├── Clean Architecture
+├── MVVM
+├── Repository Pattern
+├── Dependency Injection
+└── Separation of Concerns
+
+Flutter
+├── GetX
+├── Reactive State Management
+├── Bindings & Dependency Injection
+├── Reusable Components
+└── Responsive UI
+
+Backend
+├── RESTful APIs
+├── JWT Authentication
+├── API Validation
+├── Database Integration
+└── Secure Application Flow
+
+Engineering
+├── Clean Code
+├── Modular Development
+├── Git Workflows
+├── Performance Optimization
+└── Maintainable Systems
 ```
+
 ---
-🤝 Let's Connect
-I'm always interested in building useful products, collaborating with developers, and working on challenging mobile and web applications.
-<p align="center">
-<a href="https://www.linkedin.com/in/muhammad-ehsan-41680731b/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:mehsan1237@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/MEhsan1237">
-  <img src="https://img.shields.io/badge/GitHub-Follow-18181B?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</p>
+
+## 📊 GitHub Analytics
+
 <div align="center">
-💡 Build. Learn. Ship. Improve.
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=mehsan1237&show_icons=true&hide_border=true&theme=transparent&title_color=7C3AED&icon_color=7C3AED&text_color=64748B&rank_icon=github"
+height="180"
+alt="GitHub Statistics"
+/>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehsan1237&layout=compact&hide_border=true&theme=transparent&title_color=7C3AED&text_color=64748B"
+height="180"
+alt="Top Languages"
+/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=mehsan1237&hide_border=true&theme=transparent&ring=7C3AED&fire=F97316&currStreakLabel=7C3AED&sideLabels=64748B&dates=64748B"
+alt="GitHub Streak"
+/>
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img
+src="https://github-profile-trophy.vercel.app/?username=mehsan1237&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1"
+alt="GitHub Trophies"
+/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=mehsan1237&bg_color=ffffff00&color=7C3AED&line=7C3AED&point=F97316&area=true&hide_border=true"
+alt="GitHub Contribution Graph"
+/>
+
+</div>
+
+---
+
+## 🧠 Engineering Mindset
+
+<div align="center">
+
+| Focus            | Approach                                       |
+| ---------------- | ---------------------------------------------- |
+| 🧩 Code Quality  | Readable, maintainable & reusable              |
+| 🏛️ Architecture | Scalable structure with clear responsibilities |
+| 🎨 UI/UX         | Modern, responsive & user-focused              |
+| ⚡ Performance    | Efficient rendering & optimized workflows      |
+| 🔐 Security      | Secure authentication & API practices          |
+| 🧪 Reliability   | Consistent, testable & predictable behavior    |
+| 🚀 Delivery      | Production-focused development                 |
+| 🔄 Collaboration | Git-based professional workflows               |
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```text
+Flutter Development
+        ↓
+Full Stack Development
+        ↓
+React.js Ecosystem
+        ↓
+Backend & REST APIs
+        ↓
+Cloud & Firebase
+        ↓
+Scalable Application Architecture
+        ↓
+Production Engineering
+```
+
+---
+
+## 🤝 Let's Build Something Great
+
+I'm interested in building useful digital products, collaborating with developers, and working on challenging **mobile, web and full-stack applications**.
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/muhammad-ehsan-41680731b/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:mehsan1237@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://github.com/MEhsan1237">
+  <img src="https://img.shields.io/badge/GitHub-Follow-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💡 Build. Learn. Ship. Improve.
+
 </div>
