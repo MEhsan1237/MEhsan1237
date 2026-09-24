@@ -496,55 +496,6 @@ A modern **shopping application** focused on product discovery, authentication, 
 
 </div>
 
-## 📊 GitHub Analytics
-
-<hr>
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 📊 GitHub Statistics
-
-<br>
-
-<table width="100%">
-<tr>
-<td><strong>⭐ Stars</strong></td>
-<td align="right"><strong>—</strong></td>
-</tr>
-<tr>
-<td><strong>📦 Repositories</strong></td>
-<td align="right"><strong>—</strong></td>
-</tr>
-<tr>
-<td><strong>👥 Followers</strong></td>
-<td align="right"><strong>—</strong></td>
-</tr>
-<tr>
-<td><strong>🔀 Contributions</strong></td>
-<td align="right"><strong>—</strong></td>
-</tr>
-<tr>
-<td><strong>💻 Languages</strong></td>
-<td align="right"><strong>Flutter • React • Node</strong></td>
-</tr>
-</table>
-
-<br>
-
-<img
-src="https://img.shields.io/badge/Profile-MEhsan1237-7C3AED?style=for-the-badge&logo=github&logoColor=white"
-alt="GitHub Profile"
-/>
-
-</td>
-
-<td width="50%" valign="top">
-
 ### 💻 Top Technologies
 
 <br>
@@ -785,44 +736,6 @@ alt="System Design"
 </table>
 
 </div>
-
-
-## 🧠 Engineering Mindset
-
-<div align="center">
-
-| Focus            | Approach                                       |
-| ---------------- | ---------------------------------------------- |
-| 🧩 Code Quality  | Readable, maintainable & reusable              |
-| 🏛️ Architecture | Scalable structure with clear responsibilities |
-| 🎨 UI/UX         | Modern, responsive & user-focused              |
-| ⚡ Performance    | Efficient rendering & optimized workflows      |
-| 🔐 Security      | Secure authentication & API practices          |
-| 🧪 Reliability   | Consistent, testable & predictable behavior    |
-| 🚀 Delivery      | Production-focused development                 |
-| 🔄 Collaboration | Git-based professional workflows               |
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-```text
-Flutter Development
-        ↓
-Full Stack Development
-        ↓
-React.js Ecosystem
-        ↓
-Backend & REST APIs
-        ↓
-Cloud & Firebase
-        ↓
-Scalable Application Architecture
-        ↓
-Production Engineering
-```
 
 ---
 
