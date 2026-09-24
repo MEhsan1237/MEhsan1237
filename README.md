@@ -393,69 +393,334 @@ A modern **shopping application** focused on product discovery, authentication, 
 
 <div align="center">
 
-### ⚡ Development Focus
+## 🎯 Current Focus
 
-<img src="https://img.shields.io/badge/Mobile%20Development-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Frontend-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cloud-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/API-REST-6C63FF?style=for-the-badge"/>
+<hr>
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="160">
+
+<img src="https://skillicons.dev/icons?i=flutter" width="50" alt="Flutter"/>
+
+<br><br>
+
+<strong>Flutter</strong>
+
+</td>
+
+<td align="center" width="160">
+
+<img src="https://skillicons.dev/icons?i=react" width="50" alt="React.js"/>
+
+<br><br>
+
+<strong>React.js</strong>
+
+</td>
+
+<td align="center" width="160">
+
+<img src="https://skillicons.dev/icons?i=react" width="50" alt="React Native"/>
+
+<br><br>
+
+<strong>React Native</strong>
+
+</td>
+
+<td align="center" width="160">
+
+<img src="https://skillicons.dev/icons?i=nodejs" width="50" alt="Node.js"/>
+
+<br><br>
+
+<strong>Node.js</strong>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="160">
+
+<img src="https://skillicons.dev/icons?i=mongodb" width="50" alt="MongoDB"/>
+
+<br><br>
+
+<strong>MongoDB</strong>
+
+</td>
+
+<td align="center" width="160">
+
+<img src="https://skillicons.dev/icons?i=mysql" width="50" alt="MySQL"/>
+
+<br><br>
+
+<strong>MySQL</strong>
+
+</td>
+
+<td align="center" width="160">
+
+<img src="https://skillicons.dev/icons?i=postgres" width="50" alt="PostgreSQL"/>
+
+<br><br>
+
+<strong>PostgreSQL</strong>
+
+</td>
+
+<td align="center" width="160">
+
+<img src="https://skillicons.dev/icons?i=firebase" width="50" alt="Firebase"/>
+
+<br><br>
+
+<strong>Firebase</strong>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
+<br>
 
-## 🛠️ Technology Stack
+<!-- ====================================================== -->
+<!-- 🌐 FRONTEND DEVELOPMENT -->
+<!-- ====================================================== -->
 
-### 📱 Mobile Development
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,android,firebase" alt="Mobile Technologies"/>
-</p>
-
-`Flutter` · `Dart` · `GetX` · `MVVM` · `Clean Architecture` · `REST APIs` · `Firebase` · `Firestore` · `Google Maps` · `Push Notifications`
-
----
-
-### 🌐 Frontend Development
+<h2>🌐 Frontend Development</h2>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,bootstrap,vite" alt="Frontend Technologies"/>
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
-
-`React.js` · `JavaScript` · `TypeScript` · `HTML5` · `CSS3` · `Tailwind CSS` · `Bootstrap` · `Responsive UI`
-
----
-
-### ⚙️ Backend & APIs
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,postman" alt="Backend Technologies"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Responsive_UI-6C63FF?style=for-the-badge" />
 </p>
 
-`Node.js` · `Express.js` · `REST APIs` · `JWT Authentication` · `Firebase` · `Firestore` · `API Integration`
+</div>
 
----
+<br>
 
-### 🗄️ Databases
+<!-- ====================================================== -->
+<!-- 📱 MOBILE DEVELOPMENT -->
+<!-- ====================================================== -->
+
+<div align="center">
+
+<h2>📱 Mobile Development</h2>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" alt="Database Technologies"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
-
-`MongoDB` · `MySQL` · `PostgreSQL` · `Firestore` · `SQL`
-
----
-
-### 🔧 Tools & Workflow
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,androidstudio,postman" alt="Development Tools"/>
+  <img src="https://img.shields.io/badge/MVVM-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Clean_Architecture-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST_APIs-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
-`Git` · `GitHub` · `Docker` · `Figma` · `VS Code` · `Android Studio` · `Postman`
+<p>
+  <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Push_Notifications-FF6F00?style=for-the-badge" />
+</p>
 
----
+</div>
+
+<br>
+
+<!-- ====================================================== -->
+<!-- ⚙️ BACKEND & APIs -->
+<!-- ====================================================== -->
+
+<div align="center">
+
+<h2>⚙️ Backend & APIs</h2>
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API_Integration-4F46E5?style=for-the-badge" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+</div>
+
+<br>
+
+<!-- ====================================================== -->
+<!-- 🗄️ DATABASES -->
+<!-- ====================================================== -->
+
+<div align="center">
+
+<h2>🗄️ Databases</h2>
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=databricks&logoColor=white" />
+</p>
+
+</div>
+
+<br>
+
+<!-- ====================================================== -->
+<!-- 🏗️ ARCHITECTURE & ENGINEERING -->
+<!-- ====================================================== -->
+
+<div align="center">
+
+<h2>🏗️ Architecture & Engineering</h2>
+
+<p>
+  <img src="https://img.shields.io/badge/Clean_Architecture-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MVVM-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Repository_Pattern-6D28D9?style=for-the-badge" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Dependency_Injection-4F46E5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/State_Management-6366F1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scalable_Systems-7C3AED?style=for-the-badge" />
+</p>
+
+</div>
+
+<br>
+
+<!-- ====================================================== -->
+<!-- 🔧 TOOLS & WORKFLOW -->
+<!-- ====================================================== -->
+
+<div align="center">
+
+<h2>🔧 Tools & Workflow</h2>
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+</div>
+
+<br>
+
+<!-- ====================================================== -->
+<!-- 🚀 DEVELOPMENT APPROACH -->
+<!-- ====================================================== -->
+
+<div align="center">
+
+<h2>🚀 Development Approach</h2>
+
+<table>
+<tr>
+
+<td align="center" width="220">
+
+### 📐 Architecture
+
+Clean & Scalable
+
+<br>
+
+MVVM · Clean Architecture · Repository Pattern
+
+</td>
+
+<td align="center" width="220">
+
+### 🎨 UI / UX
+
+Modern & Responsive
+
+<br>
+
+Material UI · Responsive Design · Figma
+
+</td>
+
+<td align="center" width="220">
+
+### 🔌 Integration
+
+API-Driven Development
+
+<br>
+
+REST APIs · Firebase · JWT · Third-Party APIs
+
+</td>
+
+<td align="center" width="220">
+
+### ⚡ Engineering
+
+Production Focused
+
+<br>
+
+Git · Docker · Testing · Performance
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<hr>
+
+<div align="center">
+
+<strong>Building scalable mobile & web applications with modern technologies, clean architecture, and production-focused engineering.</strong>
+
+</div>
 ## 🏗️ Architecture & Engineering
 
 <br>
