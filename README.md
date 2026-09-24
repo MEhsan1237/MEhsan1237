@@ -111,9 +111,115 @@ alt="Developer Roles"
 
 <div align="center">
 
+<div align="center">
+
 ### 🎯 Current Focus
 
-`Flutter` • `React.js` • `React Native` • `Node.js` • `REST APIs` • `Firebase` • `System Architecture`
+<br>
+
+<table>
+<tr>
+<td align="center" width="140">
+
+<img src="https://skillicons.dev/icons?i=flutter" width="45" alt="Flutter"/>
+
+<br>
+
+<strong>Flutter</strong>
+
+</td>
+
+<td align="center" width="140">
+
+<img src="https://skillicons.dev/icons?i=react" width="45" alt="React.js"/>
+
+<br>
+
+<strong>React.js</strong>
+
+</td>
+
+<td align="center" width="140">
+
+<img src="https://skillicons.dev/icons?i=react" width="45" alt="React Native"/>
+
+<br>
+
+<strong>React Native</strong>
+
+</td>
+
+<td align="center" width="140">
+
+<img src="https://skillicons.dev/icons?i=nodejs" width="45" alt="Node.js"/>
+
+<br>
+
+<strong>Node.js</strong>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="140">
+
+<img src="https://skillicons.dev/icons?i=postman" width="45" alt="REST APIs"/>
+
+<br>
+
+<strong>REST APIs</strong>
+
+</td>
+
+<td align="center" width="140">
+
+<img src="https://skillicons.dev/icons?i=firebase" width="45" alt="Firebase"/>
+
+<br>
+
+<strong>Firebase</strong>
+
+</td>
+
+<td align="center" width="140">
+
+<img src="https://img.shields.io/badge/API-6C63FF?style=flat-square&logoColor=white" height="24" alt="API"/>
+
+<br>
+
+<strong>Backend</strong>
+
+</td>
+
+<td align="center" width="140">
+
+<img src="https://img.shields.io/badge/Architecture-7C3AED?style=flat-square&logoColor=white" height="24" alt="System Architecture"/>
+
+<br>
+
+<strong>System Design</strong>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js"/>
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/REST%20APIs-6C63FF?style=for-the-badge&logoColor=white" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/System%20Architecture-7C3AED?style=for-the-badge&logoColor=white" alt="System Architecture"/>
+</p>
 
 </div>
 
