@@ -79,16 +79,44 @@ alt="Developer Roles"
 
 </div>
 
-
 ## 🧑‍💻 What I'm Working On
 
-* 🔭 Building and improving **mobile and full-stack applications**
-* 🌱 Deepening expertise in **backend development, scalable APIs and system architecture**
-* 🤝 Open to collaborating on meaningful **Flutter, React and Full Stack projects**
-* 📚 Continuously learning modern software engineering practices
-* 🚀 Turning product ideas into maintainable and production-ready solutions
+<div align="center">
 
----
+> **Building scalable products, improving engineering practices, and turning ideas into production-ready solutions.**
+
+</div>
+
+<br>
+
+* 🔭 **Building & Shipping** — Developing modern **Flutter mobile applications** and **full-stack web solutions** with a focus on scalability and maintainability.
+
+* 🏗️ **System Architecture** — Designing applications using **Clean Architecture, MVVM, Repository Pattern, reusable components, and separation of concerns**.
+
+* ⚙️ **Backend & APIs** — Building and integrating **RESTful APIs, authentication systems, database solutions, and reliable backend services**.
+
+* 🚀 **Production Engineering** — Improving **application performance, reliability, responsiveness, error handling, and production readiness**.
+
+* 🌐 **Full Stack Development** — Expanding expertise across **React.js, Node.js, Express.js, TypeScript, MongoDB, MySQL, and modern web technologies**.
+
+* 📱 **Mobile Engineering** — Building cross-platform applications with **Flutter, Dart, GetX, Firebase, responsive UI, and modern state-management practices**.
+
+* 🤝 **Collaboration** — Open to working on meaningful **Flutter, React, React Native, and Full Stack projects**.
+
+* 📚 **Continuous Learning** — Exploring **modern software engineering practices, scalable system design, backend architecture, DevOps, and emerging technologies**.
+
+* 💡 **Problem Solving** — Converting complex business requirements into **clean, practical, and user-focused technical solutions**.
+
+<br>
+
+<div align="center">
+
+### 🎯 Current Focus
+
+`Flutter` • `React.js` • `React Native` • `Node.js` • `REST APIs` • `Firebase` • `System Architecture`
+
+</div>
+
 
 ## 🏗️ Featured Projects
 
