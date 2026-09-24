@@ -86,45 +86,150 @@ alt="Developer roles"
 
 ## 🏗️ Featured Projects
 
+<div align="center">
+
+<p>
+  <strong>Selected projects showcasing my experience in Flutter, Full Stack Development, APIs, Firebase and modern application architecture.</strong>
+</p>
+
+</div>
+
+<br>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
 ### 📄 Resume Maker App
 
-A modern resume-building application designed to help users create professional resumes using customizable templates, styling options and PDF generation.
+A modern **resume-building platform** that helps users create professional resumes with customizable templates, personal information, styling options and PDF generation.
 
-**Tech Stack**
+**✨ Highlights**
 
-`Flutter` `Dart` `GetX` `Firebase` `Firestore` `PDF`
+* 🎨 Multiple professional resume templates
+* 📄 Dynamic PDF generation
+* 🔥 Firebase & Firestore integration
+* 🎯 User-specific resume management
+* 🌓 Theme & customization support
+* 🏛️ MVVM + Clean Architecture
 
----
+**🛠️ Tech Stack**
+
+<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/GetX-8A2BE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/PDF-E53935?style=flat-square"/>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 🚐 School Van Tracking System
 
-A full-stack school transportation platform designed for managing students, drivers, routes, vans, pickups and transportation workflows.
+A full-stack **school transportation management platform** designed to manage students, parents, drivers, routes, vans, pickups and transportation workflows.
 
-**Tech Stack**
+**✨ Highlights**
 
-`Flutter` `Firebase` `Firestore` `Google Maps` `REST APIs`
+* 🚌 Real-time van tracking
+* 📍 Google Maps integration
+* 👨‍👩‍👧 Student & parent management
+* 🚐 Driver & route management
+* 🔥 Firebase backend services
+* 🔐 Authentication & user roles
 
----
+**🛠️ Tech Stack**
+
+<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-6C63FF?style=flat-square"/>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ### 🏨 Room Booking App
 
-A full-stack booking application with modern interfaces and backend integration for managing rooms, reservations and booking workflows.
+A full-stack **room reservation platform** with modern interfaces and backend integration for managing rooms, availability, users and booking workflows.
 
-**Tech Stack**
+**✨ Highlights**
 
-`Flutter` `Node.js` `Express.js` `MongoDB` `REST APIs`
+* 🏨 Room discovery & management
+* 📅 Booking workflow
+* 🔐 User authentication
+* 🌐 REST API integration
+* 🗄️ MongoDB database
+* ⚡ Responsive application experience
 
----
+**🛠️ Tech Stack**
+
+<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-6C63FF?style=flat-square"/>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 🛒 E-Commerce Application
 
-A modern shopping application focused on product browsing, authentication, cart management, API integration and responsive user experiences.
+A modern **shopping application** focused on product discovery, authentication, cart management, API integration and a smooth user experience.
 
-**Tech Stack**
+**✨ Highlights**
 
-`Flutter` `Dart` `REST APIs` `Firebase` `GetX`
+* 🛍️ Product browsing
+* 🛒 Cart management
+* 🔐 Authentication
+* 🌐 REST API integration
+* 🔥 Firebase services
+* ⚡ GetX state management
 
----
+**🛠️ Tech Stack**
+
+<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-6C63FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/GetX-8A2BE2?style=flat-square"/>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### ⚡ Development Focus
+
+<img src="https://img.shields.io/badge/Mobile%20Development-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Frontend-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/API-REST-6C63FF?style=for-the-badge"/>
+
+</div>
+
 
 ## 🛠️ Technology Stack
 
