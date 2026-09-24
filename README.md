@@ -247,6 +247,7 @@ A modern **shopping application** focused on product discovery, authentication, 
 <br>
 
 <div align="center">
+ 
 ## 🎯 Current Focus
 
 <hr>
@@ -256,43 +257,27 @@ A modern **shopping application** focused on product discovery, authentication, 
 <table>
 <tr>
 
-<td align="center" valign="middle" width="155" height="115">
+<td align="center" valign="middle" width="155" height="105">
 
-<img src="https://skillicons.dev/icons?i=flutter" width="50" alt="Flutter"/>
-
-<br><br>
-
-<strong>Flutter</strong>
+<img src="https://skillicons.dev/icons?i=flutter" width="50" alt="Flutter"/><br> <strong>Flutter</strong>
 
 </td>
 
-<td align="center" valign="middle" width="155" height="115">
+<td align="center" valign="middle" width="155" height="105">
 
-<img src="https://skillicons.dev/icons?i=react" width="50" alt="React.js"/>
-
-<br><br>
-
-<strong>React.js</strong>
+<img src="https://skillicons.dev/icons?i=react" width="50" alt="React.js"/><br> <strong>React.js</strong>
 
 </td>
 
-<td align="center" valign="middle" width="155" height="115">
+<td align="center" valign="middle" width="155" height="105">
 
-<img src="https://skillicons.dev/icons?i=react" width="50" alt="React Native"/>
-
-<br><br>
-
-<strong>React Native</strong>
+<img src="https://skillicons.dev/icons?i=react" width="50" alt="React Native"/><br> <strong>React Native</strong>
 
 </td>
 
-<td align="center" valign="middle" width="155" height="115">
+<td align="center" valign="middle" width="155" height="105">
 
-<img src="https://skillicons.dev/icons?i=nodejs" width="50" alt="Node.js"/>
-
-<br><br>
-
-<strong>Node.js</strong>
+<img src="https://skillicons.dev/icons?i=nodejs" width="50" alt="Node.js"/><br> <strong>Node.js</strong>
 
 </td>
 
@@ -300,43 +285,27 @@ A modern **shopping application** focused on product discovery, authentication, 
 
 <tr>
 
-<td align="center" valign="middle" width="155" height="115">
+<td align="center" valign="middle" width="155" height="105">
 
-<img src="https://skillicons.dev/icons?i=mongodb" width="50" alt="MongoDB"/>
-
-<br><br>
-
-<strong>MongoDB</strong>
+<img src="https://skillicons.dev/icons?i=mongodb" width="50" alt="MongoDB"/><br> <strong>MongoDB</strong>
 
 </td>
 
-<td align="center" valign="middle" width="155" height="115">
+<td align="center" valign="middle" width="155" height="105">
 
-<img src="https://skillicons.dev/icons?i=mysql" width="50" alt="MySQL"/>
-
-<br><br>
-
-<strong>MySQL</strong>
+<img src="https://skillicons.dev/icons?i=mysql" width="50" alt="MySQL"/><br> <strong>MySQL</strong>
 
 </td>
 
-<td align="center" valign="middle" width="155" height="115">
+<td align="center" valign="middle" width="155" height="105">
 
-<img src="https://skillicons.dev/icons?i=postgres" width="50" alt="PostgreSQL"/>
-
-<br><br>
-
-<strong>PostgreSQL</strong>
+<img src="https://skillicons.dev/icons?i=postgres" width="50" alt="PostgreSQL"/><br> <strong>PostgreSQL</strong>
 
 </td>
 
-<td align="center" valign="middle" width="155" height="115">
+<td align="center" valign="middle" width="155" height="105">
 
-<img src="https://skillicons.dev/icons?i=firebase" width="50" alt="Firebase"/>
-
-<br><br>
-
-<strong>Firebase</strong>
+<img src="https://skillicons.dev/icons?i=firebase" width="50" alt="Firebase"/><br> <strong>Firebase</strong>
 
 </td>
 
@@ -346,6 +315,7 @@ A modern **shopping application** focused on product discovery, authentication, 
 </div>
 
 <br>
+
 
 <!-- ====================================================== -->
 <!-- 🌐 FRONTEND DEVELOPMENT -->
