@@ -576,6 +576,7 @@ Git · Docker · Testing · Performance
 <strong>Building scalable mobile & web applications with modern technologies, clean architecture, and production-focused engineering.</strong>
 
 </div>
+
 ## 🏗️ Architecture & Engineering
 
 <br>
