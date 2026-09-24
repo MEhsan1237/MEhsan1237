@@ -859,7 +859,7 @@ I'm interested in building useful digital products, collaborating with developer
 </a>
 
 <a href="mailto:mehsan1237@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-mehsan1237@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <a href="https://www.fiverr.com/ehsan473">
