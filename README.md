@@ -257,43 +257,59 @@ A modern **shopping application** focused on product discovery, authentication, 
 <table>
 <tr>
 
-<td align="center" width="160">
-
-<img src="https://skillicons.dev/icons?i=flutter" width="50" alt="Flutter"/>
+<td align="center" width="180" height="150">
 
 <br>
 
+<img src="https://skillicons.dev/icons?i=flutter" width="55" alt="Flutter"/>
+
+<br><br>
+
 <strong>Flutter</strong>
+
+<br><br>
 
 </td>
 
-<td align="center" width="160">
+<td align="center" width="180" height="150">
 
-<img src="https://skillicons.dev/icons?i=react" width="50" alt="React.js"/>
+<br>
 
-<br> 
+<img src="https://skillicons.dev/icons?i=react" width="55" alt="React.js"/>
+
+<br><br>
 
 <strong>React.js</strong>
 
+<br><br>
+
 </td>
 
-<td align="center" width="160">
+<td align="center" width="180" height="150">
 
-<img src="https://skillicons.dev/icons?i=react" width="50" alt="React Native"/>
+<br>
 
-<br> 
+<img src="https://skillicons.dev/icons?i=react" width="55" alt="React Native"/>
+
+<br><br>
 
 <strong>React Native</strong>
 
+<br><br>
+
 </td>
 
-<td align="center" width="160">
+<td align="center" width="180" height="150">
 
-<img src="https://skillicons.dev/icons?i=nodejs" width="50" alt="Node.js"/>
+<br>
 
-<br> 
+<img src="https://skillicons.dev/icons?i=nodejs" width="55" alt="Node.js"/>
+
+<br><br>
 
 <strong>Node.js</strong>
+
+<br><br>
 
 </td>
 
@@ -301,43 +317,59 @@ A modern **shopping application** focused on product discovery, authentication, 
 
 <tr>
 
-<td align="center" width="160">
+<td align="center" width="180" height="150">
 
-<img src="https://skillicons.dev/icons?i=mongodb" width="50" alt="MongoDB"/>
+<br>
 
-<br> 
+<img src="https://skillicons.dev/icons?i=mongodb" width="55" alt="MongoDB"/>
+
+<br><br>
 
 <strong>MongoDB</strong>
 
+<br><br>
+
 </td>
 
-<td align="center" width="160">
+<td align="center" width="180" height="150">
 
-<img src="https://skillicons.dev/icons?i=mysql" width="50" alt="MySQL"/>
+<br>
 
-<br> 
+<img src="https://skillicons.dev/icons?i=mysql" width="55" alt="MySQL"/>
+
+<br><br>
 
 <strong>MySQL</strong>
 
+<br><br>
+
 </td>
 
-<td align="center" width="160">
+<td align="center" width="180" height="150">
 
-<img src="https://skillicons.dev/icons?i=postgres" width="50" alt="PostgreSQL"/>
+<br>
 
-<br> 
+<img src="https://skillicons.dev/icons?i=postgres" width="55" alt="PostgreSQL"/>
+
+<br><br>
 
 <strong>PostgreSQL</strong>
 
+<br><br>
+
 </td>
 
-<td align="center" width="160">
+<td align="center" width="180" height="150">
 
-<img src="https://skillicons.dev/icons?i=firebase" width="50" alt="Firebase"/>
+<br>
 
-<br> 
+<img src="https://skillicons.dev/icons?i=firebase" width="55" alt="Firebase"/>
+
+<br><br>
 
 <strong>Firebase</strong>
+
+<br><br>
 
 </td>
 
@@ -347,6 +379,7 @@ A modern **shopping application** focused on product discovery, authentication, 
 </div>
 
 <br>
+
 
 <!-- ====================================================== -->
 <!-- 🌐 FRONTEND DEVELOPMENT -->
