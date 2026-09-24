@@ -261,7 +261,7 @@ A modern **shopping application** focused on product discovery, authentication, 
 
 <img src="https://skillicons.dev/icons?i=flutter" width="50" alt="Flutter"/>
 
-<br><br>
+<br>
 
 <strong>Flutter</strong>
 
@@ -271,7 +271,7 @@ A modern **shopping application** focused on product discovery, authentication, 
 
 <img src="https://skillicons.dev/icons?i=react" width="50" alt="React.js"/>
 
-<br><br>
+<br> 
 
 <strong>React.js</strong>
 
@@ -281,7 +281,7 @@ A modern **shopping application** focused on product discovery, authentication, 
 
 <img src="https://skillicons.dev/icons?i=react" width="50" alt="React Native"/>
 
-<br><br>
+<br> 
 
 <strong>React Native</strong>
 
@@ -291,7 +291,7 @@ A modern **shopping application** focused on product discovery, authentication, 
 
 <img src="https://skillicons.dev/icons?i=nodejs" width="50" alt="Node.js"/>
 
-<br><br>
+<br> 
 
 <strong>Node.js</strong>
 
@@ -305,7 +305,7 @@ A modern **shopping application** focused on product discovery, authentication, 
 
 <img src="https://skillicons.dev/icons?i=mongodb" width="50" alt="MongoDB"/>
 
-<br><br>
+<br> 
 
 <strong>MongoDB</strong>
 
@@ -315,7 +315,7 @@ A modern **shopping application** focused on product discovery, authentication, 
 
 <img src="https://skillicons.dev/icons?i=mysql" width="50" alt="MySQL"/>
 
-<br><br>
+<br> 
 
 <strong>MySQL</strong>
 
@@ -325,7 +325,7 @@ A modern **shopping application** focused on product discovery, authentication, 
 
 <img src="https://skillicons.dev/icons?i=postgres" width="50" alt="PostgreSQL"/>
 
-<br><br>
+<br> 
 
 <strong>PostgreSQL</strong>
 
@@ -335,7 +335,7 @@ A modern **shopping application** focused on product discovery, authentication, 
 
 <img src="https://skillicons.dev/icons?i=firebase" width="50" alt="Firebase"/>
 
-<br><br>
+<br> 
 
 <strong>Firebase</strong>
 
