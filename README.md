@@ -505,23 +505,82 @@ A modern **shopping application** focused on product discovery, authentication, 
 <table>
 <tr>
 
-<td width="50%" align="center">
+<td width="50%" valign="top">
+
+### 📊 GitHub Statistics
+
+<br>
+
+<table width="100%">
+<tr>
+<td><strong>⭐ Stars</strong></td>
+<td align="right"><strong>—</strong></td>
+</tr>
+<tr>
+<td><strong>📦 Repositories</strong></td>
+<td align="right"><strong>—</strong></td>
+</tr>
+<tr>
+<td><strong>👥 Followers</strong></td>
+<td align="right"><strong>—</strong></td>
+</tr>
+<tr>
+<td><strong>🔀 Contributions</strong></td>
+<td align="right"><strong>—</strong></td>
+</tr>
+<tr>
+<td><strong>💻 Languages</strong></td>
+<td align="right"><strong>Flutter • React • Node</strong></td>
+</tr>
+</table>
+
+<br>
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=MEhsan1237&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=12&bg_color=00000000&title_color=7C3AED&icon_color=7C3AED&text_color=64748B&rank_icon=github"
-height="190"
-alt="Muhammad Ehsan GitHub Statistics"
+src="https://img.shields.io/badge/Profile-MEhsan1237-7C3AED?style=for-the-badge&logo=github&logoColor=white"
+alt="GitHub Profile"
 />
 
 </td>
 
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEhsan1237&layout=compact&langs_count=8&hide_border=true&border_radius=12&bg_color=00000000&title_color=7C3AED&text_color=64748B"
-height="190"
-alt="Muhammad Ehsan Top Languages"
-/>
+### 💻 Top Technologies
+
+<br>
+
+<table width="100%">
+<tr>
+<td>Flutter</td>
+<td align="right"><strong>Mobile</strong></td>
+</tr>
+<tr>
+<td>React.js</td>
+<td align="right"><strong>Frontend</strong></td>
+</tr>
+<tr>
+<td>React Native</td>
+<td align="right"><strong>Mobile</strong></td>
+</tr>
+<tr>
+<td>Node.js</td>
+<td align="right"><strong>Backend</strong></td>
+</tr>
+<tr>
+<td>Firebase</td>
+<td align="right"><strong>Cloud</strong></td>
+</tr>
+<tr>
+<td>MongoDB</td>
+<td align="right"><strong>Database</strong></td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
 
 </td>
 
@@ -538,10 +597,65 @@ alt="Muhammad Ehsan Top Languages"
 
 <div align="center">
 
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 🔥
+
+<strong>Current Streak</strong>
+
+<br><br>
+
+# —
+
+</td>
+
+<td align="center" width="25%">
+
+### 🏆
+
+<strong>Longest Streak</strong>
+
+<br><br>
+
+# —
+
+</td>
+
+<td align="center" width="25%">
+
+### 📅
+
+<strong>Active Days</strong>
+
+<br><br>
+
+# —
+
+</td>
+
+<td align="center" width="25%">
+
+### 💻
+
+<strong>Contributions</strong>
+
+<br><br>
+
+# —
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
 <img
-src="https://streak-stats.demolab.com?user=MEhsan1237&hide_border=true&border_radius=12&background=00000000&ring=7C3AED&fire=F97316&currStreakLabel=7C3AED&sideLabels=64748B&dates=64748B&currStreakNum=7C3AED&sideNums=7C3AED"
-width="80%"
-alt="Muhammad Ehsan GitHub Streak"
+src="https://img.shields.io/badge/Consistency-Building%20Every%20Day-F97316?style=for-the-badge&logo=github&logoColor=white"
+alt="GitHub Consistency"
 />
 
 </div>
@@ -554,11 +668,94 @@ alt="Muhammad Ehsan GitHub Streak"
 
 <div align="center">
 
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+# 🚀
+
+**Pull Shark**
+
+<br>
+
+Building through collaborative development
+
+</td>
+
+<td align="center" width="25%">
+
+# ⚡
+
+**Quickdraw**
+
+<br>
+
+Fast and consistent repository activity
+
+</td>
+
+<td align="center" width="25%">
+
+# 🦈
+
+**YOLO**
+
+<br>
+
+Experimenting and shipping ideas
+
+</td>
+
+<td align="center" width="25%">
+
+# 💡
+
+**Developer**
+
+<br>
+
+Creating practical software solutions
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+
+<td align="center">
+
 <img
-src="https://github-profile-trophy.vercel.app/?username=MEhsan1237&theme=flat&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=2&column=6"
-width="95%"
-alt="Muhammad Ehsan GitHub Trophies"
+src="https://img.shields.io/badge/Code-Clean%20%26%20Maintainable-7C3AED?style=for-the-badge"
+alt="Clean Code"
 />
+
+</td>
+
+<td align="center">
+
+<img
+src="https://img.shields.io/badge/Architecture-Scalable-6D28D9?style=for-the-badge"
+alt="Scalable Architecture"
+/>
+
+</td>
+
+<td align="center">
+
+<img
+src="https://img.shields.io/badge/Delivery-Production%20Ready-4F46E5?style=for-the-badge"
+alt="Production Ready"
+/>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -570,39 +767,181 @@ alt="Muhammad Ehsan GitHub Trophies"
 
 <div align="center">
 
+<table width="100%">
+<tr>
+
+<td align="center">
+
+### 🟪 Contribution Overview
+
+<br>
+
+<table>
+<tr>
+<td>Mon</td>
+<td>Tue</td>
+<td>Wed</td>
+<td>Thu</td>
+<td>Fri</td>
+<td>Sat</td>
+<td>Sun</td>
+</tr>
+
+<tr>
+<td>⬜</td>
+<td>🟪</td>
+<td>🟪</td>
+<td>⬜</td>
+<td>🟪</td>
+<td>🟪</td>
+<td>⬜</td>
+</tr>
+
+<tr>
+<td>🟪</td>
+<td>🟪</td>
+<td>⬜</td>
+<td>🟪</td>
+<td>🟪</td>
+<td>⬜</td>
+<td>🟪</td>
+</tr>
+
+<tr>
+<td>🟪</td>
+<td>🟪</td>
+<td>🟪</td>
+<td>🟪</td>
+<td>⬜</td>
+<td>🟪</td>
+<td>🟪</td>
+</tr>
+
+<tr>
+<td>⬜</td>
+<td>🟪</td>
+<td>🟪</td>
+<td>⬜</td>
+<td>🟪</td>
+<td>🟪</td>
+<td>🟪</td>
+</tr>
+
+<tr>
+<td>🟪</td>
+<td>⬜</td>
+<td>🟪</td>
+<td>🟪</td>
+<td>🟪</td>
+<td>⬜</td>
+<td>🟪</td>
+</tr>
+
+</table>
+
+<br>
+
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=MEhsan1237&bg_color=00000000&color=7C3AED&line=7C3AED&point=F97316&area=true&area_color=7C3AED&hide_border=true&radius=12&custom_title=Muhammad%20Ehsan%20-%20Contribution%20Activity"
-width="98%"
-alt="Muhammad Ehsan GitHub Contribution Activity"
+src="https://img.shields.io/badge/Contribution%20Level-Low%20→%20High-7C3AED?style=flat-square"
+alt="Contribution Level"
 />
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 <br>
+
+## 🧠 Engineering Focus
+
+<hr>
 
 <div align="center">
 
 <table>
 <tr>
 
-<td align="center">
+<td align="center" width="33%">
 
-<strong>💻 Development</strong><br>
-Flutter • React.js • React Native
+### 💻 Development
+
+<br>
+
+<img
+src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"
+alt="Flutter"
+/>
+
+<br><br>
+
+<img
+src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"
+alt="React.js"
+/>
+
+<br><br>
+
+<img
+src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+alt="React Native"
+/>
 
 </td>
 
-<td align="center">
+<td align="center" width="33%">
 
-<strong>⚙️ Backend</strong><br>
-Node.js • REST APIs • Firebase
+### ⚙️ Backend
+
+<br>
+
+<img
+src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"
+alt="Node.js"
+/>
+
+<br><br>
+
+<img
+src="https://img.shields.io/badge/REST%20APIs-6C63FF?style=for-the-badge&logoColor=white"
+alt="REST APIs"
+/>
+
+<br><br>
+
+<img
+src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"
+alt="Firebase"
+/>
 
 </td>
 
-<td align="center">
+<td align="center" width="33%">
 
-<strong>🏗️ Engineering</strong><br>
-Clean Architecture • MVVM • System Design
+### 🏗️ Engineering
+
+<br>
+
+<img
+src="https://img.shields.io/badge/Clean%20Architecture-7C3AED?style=for-the-badge"
+alt="Clean Architecture"
+/>
+
+<br><br>
+
+<img
+src="https://img.shields.io/badge/MVVM-8B5CF6?style=for-the-badge"
+alt="MVVM"
+/>
+
+<br><br>
+
+<img
+src="https://img.shields.io/badge/System%20Design-4F46E5?style=for-the-badge"
+alt="System Design"
+/>
 
 </td>
 
