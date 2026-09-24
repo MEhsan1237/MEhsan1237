@@ -422,40 +422,80 @@ A modern **shopping application** focused on product discovery, authentication, 
 `Git` · `GitHub` · `Docker` · `Figma` · `VS Code` · `Android Studio` · `Postman`
 
 ---
+## 🏗️ Architecture & Engineering
 
-## 🏛️ Architecture & Engineering
+<br>
 
-```text
-Architecture
-├── Clean Architecture
-├── MVVM
-├── Repository Pattern
-├── Dependency Injection
-└── Separation of Concerns
+<table>
+<tr>
 
-Flutter
-├── GetX
-├── Reactive State Management
-├── Bindings & Dependency Injection
-├── Reusable Components
-└── Responsive UI
+<td width="50%" valign="top">
 
-Backend
-├── RESTful APIs
-├── JWT Authentication
-├── API Validation
-├── Database Integration
-└── Secure Application Flow
+### 🧩 Architecture & Design
 
-Engineering
-├── Clean Code
-├── Modular Development
-├── Git Workflows
-├── Performance Optimization
-└── Maintainable Systems
-```
+* 🏛️ **Clean Architecture**
+* 🔄 **MVVM & Repository Pattern**
+* 💉 **Dependency Injection**
+* 🧱 **Separation of Concerns**
+* 🧩 **Modular & Scalable Structure**
+* ♻️ **Reusable Components**
 
----
+</td>
+
+<td width="50%" valign="top">
+
+### 📱 Flutter Engineering
+
+* ⚡ **GetX State Management**
+* 🔗 **Reactive UI & Bindings**
+* 📐 **Responsive Design**
+* 🎨 **Reusable UI Components**
+* 🚀 **Performance Optimization**
+* 🧹 **Clean & Maintainable Code**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### ⚙️ Backend & APIs
+
+* 🌐 **RESTful API Development**
+* 🔐 **JWT Authentication**
+* 🛡️ **API Validation & Security**
+* 🗄️ **Database Integration**
+* 🔄 **API Error Handling**
+* 📡 **Reliable Data Communication**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚀 Engineering Practices
+
+* 🧠 **Problem-Solving & System Thinking**
+* 🔧 **Git & Version Control**
+* 📦 **Modular Development**
+* ⚡ **Performance & Optimization**
+* 🧪 **Reliable & Testable Code**
+* 🚢 **Production-Ready Development**
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+**Design → Build → Optimize → Ship**
+
+</div>
+
 
 ## 📊 GitHub Analytics
 
