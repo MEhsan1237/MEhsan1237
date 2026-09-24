@@ -496,63 +496,121 @@ A modern **shopping application** focused on product discovery, authentication, 
 
 </div>
 
-
 ## 📊 GitHub Analytics
 
+<hr>
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=MEhsan1237&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=12&bg_color=00000000&title_color=7C3AED&icon_color=7C3AED&text_color=64748B&rank_icon=github"
+height="190"
+alt="Muhammad Ehsan GitHub Statistics"
+/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEhsan1237&layout=compact&langs_count=8&hide_border=true&border_radius=12&bg_color=00000000&title_color=7C3AED&text_color=64748B"
+height="190"
+alt="Muhammad Ehsan Top Languages"
+/>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+
+## 🔥 GitHub Streak
+
+<hr>
+
 <div align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=mehsan1237&show_icons=true&hide_border=true&theme=transparent&title_color=7C3AED&icon_color=7C3AED&text_color=64748B&rank_icon=github"
-height="180"
-alt="GitHub Statistics"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehsan1237&layout=compact&hide_border=true&theme=transparent&title_color=7C3AED&text_color=64748B"
-height="180"
-alt="Top Languages"
+src="https://streak-stats.demolab.com?user=MEhsan1237&hide_border=true&border_radius=12&background=00000000&ring=7C3AED&fire=F97316&currStreakLabel=7C3AED&sideLabels=64748B&dates=64748B&currStreakNum=7C3AED&sideNums=7C3AED"
+width="80%"
+alt="Muhammad Ehsan GitHub Streak"
 />
 
 </div>
 
-<br/>
-
-<div align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=mehsan1237&hide_border=true&theme=transparent&ring=7C3AED&fire=F97316&currStreakLabel=7C3AED&sideLabels=64748B&dates=64748B"
-alt="GitHub Streak"
-/>
-
-</div>
-
----
+<br>
 
 ## 🏆 GitHub Achievements
 
+<hr>
+
 <div align="center">
 
 <img
-src="https://github-profile-trophy.vercel.app/?username=mehsan1237&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1"
-alt="GitHub Trophies"
+src="https://github-profile-trophy.vercel.app/?username=MEhsan1237&theme=flat&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=2&column=6"
+width="95%"
+alt="Muhammad Ehsan GitHub Trophies"
 />
 
 </div>
 
----
+<br>
 
 ## 📈 Contribution Activity
 
+<hr>
+
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=mehsan1237&bg_color=ffffff00&color=7C3AED&line=7C3AED&point=F97316&area=true&hide_border=true"
-alt="GitHub Contribution Graph"
+src="https://github-readme-activity-graph.vercel.app/graph?username=MEhsan1237&bg_color=00000000&color=7C3AED&line=7C3AED&point=F97316&area=true&area_color=7C3AED&hide_border=true&radius=12&custom_title=Muhammad%20Ehsan%20-%20Contribution%20Activity"
+width="98%"
+alt="Muhammad Ehsan GitHub Contribution Activity"
 />
 
 </div>
 
----
+<br>
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center">
+
+<strong>💻 Development</strong><br>
+Flutter • React.js • React Native
+
+</td>
+
+<td align="center">
+
+<strong>⚙️ Backend</strong><br>
+Node.js • REST APIs • Firebase
+
+</td>
+
+<td align="center">
+
+<strong>🏗️ Engineering</strong><br>
+Clean Architecture • MVVM • System Design
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
 
 ## 🧠 Engineering Mindset
 
