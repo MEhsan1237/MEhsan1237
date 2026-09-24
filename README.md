@@ -66,13 +66,19 @@ I enjoy transforming ideas into **production-ready applications**, combining mod
 <div align="center">
 
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2500&pause=900&color=7C3AED&center=true&vCenter=true&width=700&lines=Flutter+Developer;Full+Stack+Developer;React.js+Developer;Flutter+Developer"
-alt="Developer roles"
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2500&pause=900&color=7C3AED&center=true&vCenter=true&width=850&lines=Mobile+Application+Developer;Full+Stack+Web+Developer;React.js+Developer;React+Native+Developer"
+alt="Developer Roles"
 />
+
+<br/>
+
+<p>
+  <img src="https://img.shields.io/badge/Mobile-Flutter%20%7C%20React%20Native-7C3AED?style=flat-square&logo=flutter&logoColor=white" alt="Mobile Development"/>
+  <img src="https://img.shields.io/badge/Web-React.js%20%7C%20Full%20Stack-61DAFB?style=flat-square&logo=react&logoColor=black" alt="Web Development"/>
+</p>
 
 </div>
 
----
 
 ## 🧑‍💻 What I'm Working On
 
