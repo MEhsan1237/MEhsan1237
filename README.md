@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Muhammad Ehsan
+ 
 
 <img
 src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Muhammad+Ehsan;Full+Stack+Web+Developer+%26+Flutter+Developer;Mobile+%7C+Web+%7C+Desktop+%7C+Cloud+%7C+APIs;Open+for+Freelance+Projects"
