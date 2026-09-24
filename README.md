@@ -247,7 +247,6 @@ A modern **shopping application** focused on product discovery, authentication, 
 <br>
 
 <div align="center">
-
 ## 🎯 Current Focus
 
 <hr>
@@ -257,7 +256,7 @@ A modern **shopping application** focused on product discovery, authentication, 
 <table>
 <tr>
 
-<td align="center" width="155" height="115">
+<td align="center" valign="middle" width="155" height="115">
 
 <img src="https://skillicons.dev/icons?i=flutter" width="50" alt="Flutter"/>
 
@@ -267,7 +266,7 @@ A modern **shopping application** focused on product discovery, authentication, 
 
 </td>
 
-<td align="center" width="155" height="115">
+<td align="center" valign="middle" width="155" height="115">
 
 <img src="https://skillicons.dev/icons?i=react" width="50" alt="React.js"/>
 
@@ -277,7 +276,7 @@ A modern **shopping application** focused on product discovery, authentication, 
 
 </td>
 
-<td align="center" width="155" height="115">
+<td align="center" valign="middle" width="155" height="115">
 
 <img src="https://skillicons.dev/icons?i=react" width="50" alt="React Native"/>
 
@@ -287,7 +286,7 @@ A modern **shopping application** focused on product discovery, authentication, 
 
 </td>
 
-<td align="center" width="155" height="115">
+<td align="center" valign="middle" width="155" height="115">
 
 <img src="https://skillicons.dev/icons?i=nodejs" width="50" alt="Node.js"/>
 
@@ -301,7 +300,7 @@ A modern **shopping application** focused on product discovery, authentication, 
 
 <tr>
 
-<td align="center" width="155" height="115">
+<td align="center" valign="middle" width="155" height="115">
 
 <img src="https://skillicons.dev/icons?i=mongodb" width="50" alt="MongoDB"/>
 
@@ -311,7 +310,7 @@ A modern **shopping application** focused on product discovery, authentication, 
 
 </td>
 
-<td align="center" width="155" height="115">
+<td align="center" valign="middle" width="155" height="115">
 
 <img src="https://skillicons.dev/icons?i=mysql" width="50" alt="MySQL"/>
 
@@ -321,7 +320,7 @@ A modern **shopping application** focused on product discovery, authentication, 
 
 </td>
 
-<td align="center" width="155" height="115">
+<td align="center" valign="middle" width="155" height="115">
 
 <img src="https://skillicons.dev/icons?i=postgres" width="50" alt="PostgreSQL"/>
 
@@ -331,7 +330,7 @@ A modern **shopping application** focused on product discovery, authentication, 
 
 </td>
 
-<td align="center" width="155" height="115">
+<td align="center" valign="middle" width="155" height="115">
 
 <img src="https://skillicons.dev/icons?i=firebase" width="50" alt="Firebase"/>
 
@@ -347,8 +346,6 @@ A modern **shopping application** focused on product discovery, authentication, 
 </div>
 
 <br>
-
-
 
 <!-- ====================================================== -->
 <!-- 🌐 FRONTEND DEVELOPMENT -->
