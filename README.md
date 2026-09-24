@@ -208,17 +208,51 @@ alt="Developer Roles"
 
 <br>
 
+<div align="center">
+
+### 🌐 Full Stack Web
+
+<p>
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+</p>
+
+### 📱 Mobile Engineering
+
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js"/>
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+</p>
+
+### ⚙️ MERN Stack
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
 </p>
 
+### ☁️ Backend & Cloud
+
 <p>
-  <img src="https://img.shields.io/badge/REST%20APIs-6C63FF?style=for-the-badge&logoColor=white" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-6C63FF?style=for-the-badge" alt="REST APIs"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/System%20Architecture-7C3AED?style=for-the-badge&logoColor=white" alt="System Architecture"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+</p>
+
+### 🏗️ Architecture & Engineering
+
+<p>
+  <img src="https://img.shields.io/badge/Clean%20Architecture-7C3AED?style=for-the-badge" alt="Clean Architecture"/>
+  <img src="https://img.shields.io/badge/MVVM-8B5CF6?style=for-the-badge" alt="MVVM"/>
+  <img src="https://img.shields.io/badge/Repository%20Pattern-6D28D9?style=for-the-badge" alt="Repository Pattern"/>
+  <img src="https://img.shields.io/badge/Dependency%20Injection-4F46E5?style=for-the-badge" alt="Dependency Injection"/>
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Git and GitHub"/>
 </p>
 
 </div>
@@ -495,52 +529,6 @@ A modern **shopping application** focused on product discovery, authentication, 
 **Design → Build → Optimize → Ship**
 
 </div>
-
-### 💻 Top Technologies
-
-<br>
-
-<table width="100%">
-<tr>
-<td>Flutter</td>
-<td align="right"><strong>Mobile</strong></td>
-</tr>
-<tr>
-<td>React.js</td>
-<td align="right"><strong>Frontend</strong></td>
-</tr>
-<tr>
-<td>React Native</td>
-<td align="right"><strong>Mobile</strong></td>
-</tr>
-<tr>
-<td>Node.js</td>
-<td align="right"><strong>Backend</strong></td>
-</tr>
-<tr>
-<td>Firebase</td>
-<td align="right"><strong>Cloud</strong></td>
-</tr>
-<tr>
-<td>MongoDB</td>
-<td align="right"><strong>Database</strong></td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
-<br>
 
 ## 🏆 GitHub Achievements
 
