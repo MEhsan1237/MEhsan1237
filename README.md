@@ -116,6 +116,7 @@ alt="Developer Roles"
 ### 🎯 Current Focus
 
 <br>
+<br>
 
 <table>
 <tr>
@@ -222,6 +223,7 @@ alt="Developer Roles"
 </p>
 
 </div>
+
 
 
 ## 🏗️ Featured Projects
